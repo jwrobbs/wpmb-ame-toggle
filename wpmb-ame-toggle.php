@@ -3,7 +3,7 @@
  * Plugin Name: WPMB AME Toggle
  * Plugin URI: https://wpmasterbuilder.com
  * Description: A simple plugin to create menu toggles with Admin Menu Editor.
- * Version: 1.0.4
+ * Version: 1.0.5
  * Author: Josh Robbs
  * Author URI: https://wpmasterbuilder.com
  * License: GPL2

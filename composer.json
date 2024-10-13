@@ -2,11 +2,11 @@
     "name": "jwrobbs/wpmb-ame-toggle",
     "description": "A simple plugin to create menu toggles with Admin Menu Editor.",
     "type": "wordpress-plugin",
-	"version": "1.0.4",
+	"version": "1.0.5",
     "require": {},
     "autoload": {
-        "psr-4": {
-            "WPMB_AME_Toggle\\classes\\": "classes/"
-        }
+        "classmap": [
+            "classes/"
+		]
     }
 }
