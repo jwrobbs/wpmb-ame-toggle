@@ -3,10 +3,10 @@
  * Class for the Admin Menu Style.
  * REQUIRES Admin Menu Editor plugin.
  *
- * @package JWR_dev_tools
+ * @package WPMB_AME_Toggle
  */
 
-namespace JWR_dev_tools\classes;
+namespace WPMB_AME_Toggle\classes;
 
 defined( 'ABSPATH' ) || exit;
 
